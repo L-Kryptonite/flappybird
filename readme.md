@@ -1,1 +1,1 @@
-# flappybird
+# Cocos 实训作业。
